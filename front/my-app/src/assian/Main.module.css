@@ -1,0 +1,15 @@
+.Link{
+     font-weight: bold;
+}
+.Link:hover{
+    color: teal;
+}
+.bTn:hover{
+    opacity: 0.5;
+}
+.FormDiv{
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
